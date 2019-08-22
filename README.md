@@ -9,4 +9,6 @@
 
 [axios切换路由取消指定请求与取消重复请求并存方案](https://github.com/pekonchan/Blog/issues/1)  
 
-[分类理解跨域的影响及其解决方案大全](https://github.com/pekonchan/Blog/issues/9)  
+[分类理解跨域的影响及其解决方案大全](https://github.com/pekonchan/Blog/issues/9)
+
+[响应式图片之srcset & sizes详讲](https://github.com/pekonchan/Blog/issues/18)
