@@ -5,7 +5,9 @@
 ## 猜你喜欢
 [一篇文章教你顺利入门和开发chrome扩展程序（插件）](https://github.com/pekonchan/Blog/issues/8)  
 
-[高亮：单关键词、多关键词、多组多关键词，从简单到复杂实现满足多方面需求的页面关键词高亮](https://github.com/pekonchan/Blog/issues/7)  
+[高亮：单关键词、多关键词、多组多关键词，从简单到复杂实现满足多方面需求的页面关键词高亮](https://github.com/pekonchan/Blog/issues/7)
+
+[系统权限按需访问路由几个完整方案（含addRoutes的填坑）](https://github.com/pekonchan/Blog/issues/20)
 
 [axios切换路由取消指定请求与取消重复请求并存方案](https://github.com/pekonchan/Blog/issues/1)  
 
