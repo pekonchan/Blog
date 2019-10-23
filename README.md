@@ -13,4 +13,6 @@
 
 [分类理解跨域的影响及其解决方案大全](https://github.com/pekonchan/Blog/issues/9)
 
+[给你个通用模板设计字符加密（含各种编码函数的说明）](https://github.com/pekonchan/Blog/issues/23)
+
 [响应式图片之srcset & sizes详讲](https://github.com/pekonchan/Blog/issues/18)
