@@ -9,6 +9,8 @@
 
 [系统权限按需访问路由几个完整方案（含addRoutes的填坑）](https://github.com/pekonchan/Blog/issues/20)
 
+[前端下载文件的5种方法的对比](https://github.com/pekonchan/Blog/issues/28)
+
 [axios切换路由取消指定请求与取消重复请求并存方案](https://github.com/pekonchan/Blog/issues/1)  
 
 [分类理解跨域的影响及其解决方案大全](https://github.com/pekonchan/Blog/issues/9)
